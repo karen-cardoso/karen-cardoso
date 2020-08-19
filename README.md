@@ -3,7 +3,7 @@
 
 ## Olá Pessoal :grin:
 
-Gosto muito de tecnologia e programação e estou em busca do próximo nível para resolver problemas combinando as duas!
+Gosto muito de tecnologia e programação e estou em busca do próximo nível para resolver problemas combinando essas duas coisas!
 Sou programadora iniciante, mas já tive contato com algumas linguagens de forma básica.
 
  :office:  &nbsp; Estou trabalhando na **New Contábil**
